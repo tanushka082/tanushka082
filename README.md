@@ -1,7 +1,8 @@
  <!--HEADER SECTION -->
 <h1 align="center">
-  <a href="https://github.com/Luckygoyal765">
-    <img src=lines=Tanushka%20Upadhyay;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Tanushka Upadhyay" /></a>
+  <a href="https://github.com/tanushka082">
+    <span style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 900; color: #1EFFF1;">Tanushka upadhyay</span>
+  </a>
 </h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
