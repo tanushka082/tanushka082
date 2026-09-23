@@ -1,7 +1,7 @@
  <!--HEADER SECTION -->
 <h1 align="center">
   <a href="https://github.com/tanushka082">
-    <span style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 900; color: #1EFFF1;">Tanushka upadhyay</span>
+    <span style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 900; color: #1EFFF1;">Tanushka Upadhyay</span>
   </a>
 </h1>
 
