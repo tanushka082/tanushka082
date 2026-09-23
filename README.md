@@ -14,7 +14,7 @@
 <details open>
 <summary><h2>Reach Out To Me?</h2></summary>
 <a href="https://www.linkedin.com/in/luckyy-goyal-34b51125b/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a46c68bc-a263-4def-9840-e9146dd04d1d" /></a>
-<a href="mailto:luckygoyal980765@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a>
+<a href="mailto:tanushka.lko@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a>
 <!-- <a href="https://leetcode.com/u/LuckyGoyal765/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a> -->
 </details>
 
@@ -140,13 +140,13 @@
 </details>
 
 # GitHub Activity:
-![](https://github-readme-stats.vercel.app/api?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luckygoyal765&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tanushka082&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanushka082&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushka082&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <table border= "0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=Luckygoyal765&show_icons=true&bg_color=00000000" alt="Lucky Goyal GitHub Stats"/>
+      <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=tanushka082&show_icons=true&bg_color=00000000" alt="Tanushka Upadhyay GitHub Stats"/>
     </td>
   </tr>
 </table>
